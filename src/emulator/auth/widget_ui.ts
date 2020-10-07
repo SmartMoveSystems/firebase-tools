@@ -192,7 +192,7 @@ function runAutogen() {
   var screenInput = document.getElementById('screen-name-input');
 
   var nameOptions = [
-    'racoon',
+    'raccoon',
     'olive',
     'orange',
     'chicken',
